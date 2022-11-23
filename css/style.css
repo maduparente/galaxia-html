@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#legend {
+    font-size: 15px;
+    font-weight: 300;
+    color: #606060;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+p {
+    text-indent: 30px;
+}
